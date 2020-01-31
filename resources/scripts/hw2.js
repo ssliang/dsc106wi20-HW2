@@ -13,7 +13,6 @@ let store = {
 	currWidgetQuantity: 0,
 	dingusQuantity: 0,
 	widgetQuantity: 0,
-	//currTotal: 0,
 	total: 0
   };
 
